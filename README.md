@@ -1,9 +1,9 @@
 # Music-Synthesizer
 
-ECSE 324 Lab 4 Group 47:
-* Nihal Irmak Pakis- 260733837 
-* Abdallah Basha- 260719132 
-* Fouad El Bitar- 260719196
+ECSE 324 Lab:
+* Nihal Irmak Pakis
+* Abdallah Basha 
+* Fouad El Bitar
 
 ## VGA
 ### Description:
